@@ -1,0 +1,15 @@
+ p{
+  font-family: Montserrat;
+ }
+
+ .heading{
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  width: 280px;
+  line-height: 15px;
+ }
+
+ .description{
+  font-size: 20px;
+ }
